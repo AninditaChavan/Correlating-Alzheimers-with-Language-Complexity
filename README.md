@@ -15,7 +15,7 @@ conda deactivate
 
 # Output
 
-.csv (e.g., "Mean Yngve score	Mean Frazier Score	SDL length	Type to token ratio lemmatized	Type to token ratio	Honoroe's stats	Automatic Readability Index	Brunet's index	Coleman Liau's index")
+.csv (e.g., "Mean Yngve score,	Mean Frazier Score,	SDL length,	Type to token ratio, lemmatized	Type to token ratio,	Honoroe's stats,	Automatic Readability Index,	Brunet's index and Coleman Liau's index")
 
 
 # Example
