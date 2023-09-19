@@ -1,0 +1,10 @@
+absl-py==1.1.0
+datasets==1.18.3
+flatbuffers==2.0
+fleep==1.0.1
+google
+google-api-core
+jiwer==2.3.0
+librosa==0.8.0
+torch
+transformers==4.18.0
